@@ -3,3 +3,4 @@ dist/
 .test-sandbox*
 .file-explorer/
 .DS_Store
+.claude/
